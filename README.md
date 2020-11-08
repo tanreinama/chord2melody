@@ -4,7 +4,7 @@
 
 [日本語](README_ja.md)
 
-[demonstration]()
+[demonstration1](http://ailab.nama.ne.jp/#chord2melody) | [demonstration2](http://ailab.nama.ne.jp/#melody2melody)
 
 [samples](samples/)
 
