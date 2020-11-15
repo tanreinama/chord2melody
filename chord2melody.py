@@ -20,6 +20,7 @@ parser.add_argument('--num_bars', type=int, default=4)
 parser.add_argument('--temperature', type=float, default=1)
 parser.add_argument('--output', type=str, default='output.mid')
 parser.add_argument('--top_p', type=str, default='45,7')
+parser.add_argument('--tempo', type=float, default=120.0)
 args = parser.parse_args()
 
 if '_5tr' in args.model:
@@ -167,7 +168,7 @@ def main():
         pr = []
         for i,(t,p) in enumerate(zip(tracks,programs)):
             pr.append(pypianoroll.Track(pianoroll=pianoroll[i], program=p, is_drum=(t=='Drums')))
-        mt = pypianoroll.Multitrack(tracks=pr, tempo=120.0, beat_resolution=4)
+        mt = pypianoroll.Multitrack(tracks=pr, tempo=args.tempo, beat_resolution=4)
         mt.write(args.output)
 
 if __name__ == '__main__':
