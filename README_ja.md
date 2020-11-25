@@ -34,8 +34,8 @@ GPT-2をベースに作成されました。任意の長さの音楽を生成出
 
 | モデル                                                       | 出力トラック                                                 | 総パラメーター数 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------- |
-| [base_5tr](https://www.nama.ne.jp/models/chord2melody-base_5tr.tar.gz) | Drums, Piano, Guitar, Bass, Strings                          | 86167296         |
-| [base_17tr](https://www.nama.ne.jp/models/chord2melody-base_17tr.tar.gz) | Drums, Piano, Chromatic Percussion, <br />Organ, Guitar, Bass, Strings, Ensemble, <br />Brass, Reed, Pipe, Synth Lead, Synth Pad, <br />Synth Effects, Ethnic, Percussive, Sound Effects | 86941440         |
+| [base_5tr](https://www.nama.ne.jp/models/chord2melody-base_5tr.tar.gz)<br />([backup url](http://ailab.nama.ne.jp/models/chord2melody-base_5tr.tar.gz)) | Drums, Piano, Guitar, Bass, Strings                          | 86167296         |
+| [base_17tr](https://www.nama.ne.jp/models/chord2melody-base_17tr.tar.gz)<br />([backup url](http://ailab.nama.ne.jp/models/chord2melody-base_17tr.tar.gz)) | Drums, Piano, Chromatic Percussion, <br />Organ, Guitar, Bass, Strings, Ensemble, <br />Brass, Reed, Pipe, Synth Lead, Synth Pad, <br />Synth Effects, Ethnic, Percussive, Sound Effects | 86941440         |
 
 
 

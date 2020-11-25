@@ -34,8 +34,8 @@ There are two models that have been trained: the "base_5tr" with 5 output tracks
 
 | Model Name                                                   | output tracks                                                | total number of parameters |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------- |
-| [base_5tr](https://www.nama.ne.jp/models/chord2melody-base_5tr.tar.gz) | Drums, Piano, Guitar, Bass, Strings                          | 86167296                   |
-| [base_17tr](https://www.nama.ne.jp/models/chord2melody-base_17tr.tar.gz) | Drums, Piano, Chromatic Percussion, <br />Organ, Guitar, Bass, Strings, Ensemble, <br />Brass, Reed, Pipe, Synth Lead, Synth Pad, <br />Synth Effects, Ethnic, Percussive, Sound Effects | 86941440                   |
+| [base_5tr](https://www.nama.ne.jp/models/chord2melody-base_5tr.tar.gz)<br />([backup url](http://ailab.nama.ne.jp/models/chord2melody-base_5tr.tar.gz)) | Drums, Piano, Guitar, Bass, Strings                          | 86167296                   |
+| [base_17tr](https://www.nama.ne.jp/models/chord2melody-base_17tr.tar.gz)<br />([backup url](http://ailab.nama.ne.jp/models/chord2melody-base_17tr.tar.gz)) | Drums, Piano, Chromatic Percussion, <br />Organ, Guitar, Bass, Strings, Ensemble, <br />Brass, Reed, Pipe, Synth Lead, Synth Pad, <br />Synth Effects, Ethnic, Percussive, Sound Effects | 86941440                   |
 
 
 
