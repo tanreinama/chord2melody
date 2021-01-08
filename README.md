@@ -8,6 +8,8 @@
 
 [samples](samples/)
 
+[paper](report/paper.pdf)
+
 
 
 ## What is Chord2Melody?

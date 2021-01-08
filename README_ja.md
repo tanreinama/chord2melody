@@ -8,6 +8,8 @@
 
 [サンプル](samples/)
 
+[paper](report/paper.pdf)
+
 
 
 ## Chord2Melodyとは
